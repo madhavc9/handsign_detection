@@ -12,6 +12,7 @@
     <a href="https://drive.google.com/file/d/1tP3LpOuq9oVjJ5IHTt3EekR550bA1q01/view?usp=sharing" target="_blank"><strong>Video Demonstration »</strong></a><br>
   </p>
 </div>
+    <hr>
 <details open>
     <summary>📌 Introduction</summary>
     <p>Hand Sign Detection is an intelligent system that recognizes and interprets hand gestures in real time, enabling seamless gesture-based communication. By analyzing hand movements, it identifies specific signs, making it highly useful for applications such as sign language recognition, assistive technologies, and human-computer interaction.</p>
@@ -94,8 +95,9 @@ python app.py
         </ul>
     </details>
 </div>
+ <hr>
     <footer>
-        <p align="center">Feel free to reach out for questions or contributions!</strong> | Happy Coding ! 🚀</p>
+        <p align="center">Feel free to reach out for questions or contributions !  </strong> | Happy Coding ! 🚀</p>
     </footer>
 </body>
 </html>
