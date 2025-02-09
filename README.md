@@ -4,7 +4,7 @@
 
 <div class="container">
     <div align="center">
-  <img src="/bg.png" alt="HSD Logo" width="600">
+  <img src="/HSD_bg.png" alt="HSD Logo" width="600">
   <h3 align="center">🖐 Hand Sign Detection</h3>
   <p align="center">
     An intelligent system that recognizes and interprets hand gestures in real time.<br>
