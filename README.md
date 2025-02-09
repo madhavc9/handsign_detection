@@ -97,7 +97,7 @@ python app.py
 </div>
  <hr>
     <footer>
-        <p align="center">Feel free to reach out for questions or contributions !  </strong> | Happy Coding ! 🚀</p>
+        <p align="center">Feel free to reach out for questions or contributions !  </strong> Happy Coding ! 🚀</p>
     </footer>
 </body>
 </html>
