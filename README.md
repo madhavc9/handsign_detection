@@ -79,6 +79,14 @@ python app.py
     </details>
     <hr>
     <details>
+        <summary>📸 Check Captured Screenshot</summary>
+        <p>Below is an example screenshot of the Hand Sign Detection system in action:</p>
+        <div align="center">
+            <img src="madhav_hsd.png" alt="Captured Screenshot" width="600">
+        </div>
+    </details>
+    <hr>
+    <details>
         <summary>💡 Future Enhancements</summary>
         <ul>
             <li>🔹 Implement a deep learning model for improved accuracy.</li>
@@ -98,7 +106,7 @@ python app.py
 </div>
  <hr>
     <footer>
-        <p align="center">Feel free to reach out for questions or contributions !  </strong> Happy Coding ! 🚀</p>
+        <p align="center">Feel free to reach out for questions or contributions! 🚀 Happy Coding! </p>
     </footer>
 </body>
 </html>
