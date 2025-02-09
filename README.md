@@ -3,11 +3,20 @@
 <body>
 
 <div class="container">
-    <h1>🖐 Hand Sign Detection</h1>
-    <details open>
-        <summary>📌 Introduction</summary>
-        <p>Hand Sign Detection is a <b>computer vision-based project</b> that recognizes hand gestures in <b>real-time</b> using a webcam. It leverages <b>MediaPipe</b> for hand landmark detection and <b>Scikit-Learn's Random Forest classifier</b> for sign classification.</p>
-    </details>
+    <div align="center">
+  <img src="/bg.png" alt="HSD Logo" width="600">
+  <h3 align="center">🖐 Hand Sign Detection</h3>
+  <p align="center">
+    An intelligent system that recognizes and interprets hand gestures in real time.<br>
+    <a href="https://drive.google.com/file/d/1qYvdLZSJQP73nDsnra9D96X2YBksIoWI/view?usp=sharing" target="_blank"><strong>Explore the documentation »</strong></a><br>
+    <a href="https://drive.google.com/file/d/1tP3LpOuq9oVjJ5IHTt3EekR550bA1q01/view?usp=sharing" target="_blank"><strong>Video Demonstration »</strong></a><br>
+  </p>
+</div>
+<details open>
+    <summary>📌 Introduction</summary>
+    <p>Hand Sign Detection is an intelligent system that recognizes and interprets hand gestures in real time, enabling seamless gesture-based communication. By analyzing hand movements, it identifies specific signs, making it highly useful for applications such as sign language recognition, assistive technologies, and human-computer interaction.</p>
+    <p>Designed for speed and accuracy, this system provides instant feedback, ensuring a smooth user experience. Whether used for accessibility, educational purposes, or interactive controls, Hand Sign Detection enhances non-verbal communication by bridging the gap between gestures and meaningful interpretation.</p>
+</details>
     <hr>
     <details>
         <summary>🎯 Features</summary>
