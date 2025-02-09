@@ -21,6 +21,7 @@
     </details>
     <hr>
     <details>
+        <hr>
         <summary>🚀 Installation & Setup</summary>
         <pre><code># Clone the repository
 git clone https://github.com/madhavc9/Hand-Sign-Detection.git
@@ -55,6 +56,7 @@ python app.py
             <li><b>NumPy</b> - For numerical operations and data handling.</li>
         </ul>
     </details>
+    <hr>
     <details>
         <summary>🛠 How It Works</summary>
         <hr>
@@ -65,6 +67,7 @@ python app.py
             <li>🎥 <b>Real-Time Prediction</b>: Use a webcam to detect and classify hand signs.</li>
         </ol>
     </details>
+    <hr>
     <details>
     <hr>
         <summary>💡 Future Enhancements</summary>
