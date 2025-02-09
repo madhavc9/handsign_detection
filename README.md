@@ -15,6 +15,7 @@
     <hr>
 <details open>
     <summary>📌 Introduction</summary>
+    <br>
     <p>Hand Sign Detection is an intelligent system that recognizes and interprets hand gestures in real time, enabling seamless gesture-based communication. By analyzing hand movements, it identifies specific signs, making it highly useful for applications such as sign language recognition, assistive technologies, and human-computer interaction.</p>
     <p>Designed for speed and accuracy, this system provides instant feedback, ensuring a smooth user experience. Whether used for accessibility, educational purposes, or interactive controls, Hand Sign Detection enhances non-verbal communication by bridging the gap between gestures and meaningful interpretation.</p>
 </details>
