@@ -81,6 +81,7 @@ python app.py
     <details>
         <summary>📸 Check Captured Screenshot</summary>
         <p>Below is an example screenshot of the Hand Sign Detection system in action:</p>
+        <br>
         <div align="center">
             <img src="madhav_hsd.png" alt="Captured Screenshot" width="600">
         </div>
