@@ -30,7 +30,6 @@
     </details>
     <hr>
     <details>
-        <hr>
         <summary>🚀 Installation & Setup</summary>
         <pre><code># Clone the repository
 git clone https://github.com/madhavc9/Hand-Sign-Detection.git
@@ -69,7 +68,6 @@ python app.py
     <hr>
     <details>
         <summary>🛠 How It Works</summary>
-        <hr>
         <ol>
             <li>📸 <b>Data Collection</b>: Capture images for each hand sign.</li>
             <li>🔍 <b>Data Preprocessing</b>: Extract key hand landmarks.</li>
@@ -79,7 +77,6 @@ python app.py
     </details>
     <hr>
     <details>
-    <hr>
         <summary>💡 Future Enhancements</summary>
         <ul>
             <li>🔹 Implement a deep learning model for improved accuracy.</li>
