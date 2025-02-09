@@ -8,6 +8,7 @@
         <summary>📌 Introduction</summary>
         <p>Hand Sign Detection is a <b>computer vision-based project</b> that recognizes hand gestures in <b>real-time</b> using a webcam. It leverages <b>MediaPipe</b> for hand landmark detection and <b>Scikit-Learn's Random Forest classifier</b> for sign classification.</p>
     </details>
+    <hr>
     <details>
         <summary>🎯 Features</summary>
         <ul>
@@ -18,6 +19,7 @@
             <li>✔ <b>Scalable & Modular</b>: Organized scripts for easy modifications and expansions.</li>
         </ul>
     </details>
+    <hr>
     <details>
         <summary>🚀 Installation & Setup</summary>
         <pre><code># Clone the repository
@@ -42,6 +44,7 @@ python app.py
             <li><b>app.py</b> - Runs real-time detection using the trained model.</li>
         </ul>
     </details>
+    <hr>
     <details>
         <summary>🔧 Technologies Used</summary>
         <ul>
@@ -54,6 +57,7 @@ python app.py
     </details>
     <details>
         <summary>🛠 How It Works</summary>
+        <hr>
         <ol>
             <li>📸 <b>Data Collection</b>: Capture images for each hand sign.</li>
             <li>🔍 <b>Data Preprocessing</b>: Extract key hand landmarks.</li>
@@ -62,6 +66,7 @@ python app.py
         </ol>
     </details>
     <details>
+    <hr>
         <summary>💡 Future Enhancements</summary>
         <ul>
             <li>🔹 Implement a deep learning model for improved accuracy.</li>
@@ -69,6 +74,7 @@ python app.py
             <li>🔹 Create a graphical user interface (GUI) for better user interaction.</li>
         </ul>
     </details>
+    <hr>
     <details>
         <summary>📞 Contact</summary>
         <p>If you have any questions or suggestions, feel free to reach out:</p>
