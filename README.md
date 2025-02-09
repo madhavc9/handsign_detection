@@ -89,12 +89,13 @@ python app.py
         <summary>📞 Contact</summary>
         <p>If you have any questions or suggestions, feel free to reach out:</p>
         <ul>
-            <li>📧 Email: <a href="mailto:ranmadhav@gmail.com">your.email@example.com</a></li>
-            <li>🐙 GitHub: <a href="https://github.com/madhavc9" target="_blank">yourusername</a></li>
+            <li>📧 Email: <a href="mailto:ranmadhav@gmail.com">ranmadhav@gmail.com</a></li>
+            <li>🐙 GitHub: <a href="https://github.com/madhavc9" target="_blank">madhavc9</a></li>
         </ul>
     </details>
-
 </div>
-
+    <footer>
+        <p align="center">Feel free to reach out for questions or contributions!</strong> | Happy Coding ! 🚀</p>
+    </footer>
 </body>
 </html>
