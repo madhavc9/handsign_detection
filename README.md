@@ -36,6 +36,7 @@ pip install -r requirements.txt
 python app.py
 </code></pre>
     </details>
+    <hr>
     <details>
         <summary>📂 Project Structure</summary>
         <ul>
