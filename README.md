@@ -1,10 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hand Sign Detection - README</title>
-</head>
 <body>
 <div class="container">
     <h1>🖐 Hand Sign Detection</h1>
@@ -80,8 +75,8 @@ python app.py
         <h2>📞 Contact</h2>
         <p>If you have any questions or suggestions, feel free to reach out:</p>
         <ul>
-            <li>📧 Email: <a href="mailto:your.email@example.com">your.email@example.com</a></li>
-            <li>🐙 GitHub: <a href="https://github.com/yourusername" target="_blank">yourusername</a></li>
+            <li>📧 Email: <a href="mailto:ranmadhav@gmail.com">your.email@example.com</a></li>
+            <li>🐙 GitHub: <a href="https://github.com/madhavc9" target="_blank">yourusername</a></li>
         </ul>
     </div>
 </div>
