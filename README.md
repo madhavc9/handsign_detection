@@ -8,8 +8,8 @@
   <h3 align="center">🖐 Hand Sign Detection</h3>
   <p align="center">
     An intelligent system that recognizes and interprets hand gestures in real time.<br>
-    <a href="https://drive.google.com/file/d/1qYvdLZSJQP73nDsnra9D96X2YBksIoWI/view?usp=sharing" target="_blank"><strong>Explore the documentation »</strong></a><br>
-    <a href="https://drive.google.com/file/d/1tP3LpOuq9oVjJ5IHTt3EekR550bA1q01/view?usp=sharing" target="_blank"><strong>Video Demonstration »</strong></a><br>
+    <a href="https://drive.google.com/file/d/1bWEiTgkWuQyqGnEvBQNt_22UAcB_Ac7-/view?usp=sharing" target="_blank"><strong>Explore the documentation »</strong></a><br>
+    <a href="https://drive.google.com/file/d/1SZsXn98AHjcwl0WnsVWaI8YshWj3CLYl/view?usp=sharing" target="_blank"><strong>Video Demonstration »</strong></a><br>
   </p>
 </div>
     <hr>
